@@ -1,6 +1,11 @@
 # urban_tree_shade_analysis
 Code and materials related to shade model analysis by Dr. John Wilson's team at USC
 
+Project goals and expected outputs：
+Design and implement methods to estimate the shadow surface provided by (a) terrain surfaces (including elevated highways), (b) buildings, and (c) existing tree canopy. The purpose is to conduct the analysis every 10 minutes from sunrise to sunset over a calendar year so that we can use a raster grid to summarize the cumulative hours of shade currently provided by all 6 communities. Dr. John Wilson will specify the methods used and the general characteristics of the data, Yifan Yang will lead the effort to build these methods so we can write papers and improve our description of communities and their greening opportunities.
+
+Manuscript submitted to the journal, describing the methods and values of the output, and the spatiotemporal raster stack we will deploy to further our work, for example, highlighting areas that could be better colored and their ownership status, as well as these candidate sites Whether you currently have a permeable or impermeable surface. These metrics will also be incorporated into the Canopy Scorecard of the Bezos Earth Fund’s work over the next year.
+
 Session 1, sunrise and sunset times
 
 Sunrise_Sunset_2023_LA：
