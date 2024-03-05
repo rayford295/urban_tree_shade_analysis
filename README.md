@@ -16,3 +16,8 @@ A file containing the sunrise and sunset time points of Los Angeles throughout 2
 
 la_sunset_and_sunrise_time.ipynb：
 is a notebook-based python file whose function is to call the API to query and output the sunrise and sunset times at a certain point. This file is to query the time from sunrise to sunset every day in Los Angeles in 2023, and divides it every ten minutes; at the same time, we only take integer times here, for example, 6:54 in the morning will become 7:00, in the morning 6:48 will become 6:50. The same time at night is similar, 6:04 pm will become 6:00 pm.
+
+Session 2, 3D modeling data sources and specific information, methodology
+
+
+Session 3, Shadow area calculation, usage analysis of Sun Shadow frequency tool, and process automation.
