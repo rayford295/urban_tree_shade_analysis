@@ -1,6 +1,8 @@
 # urban_tree_shade_analysis
 Code and materials related to shade model analysis by Dr. John Wilson's team at USC
 
+Session 1, sunrise and sunset times
+
 Sunrise_Sunset_2023_LA：
 A file containing the sunrise and sunset time points for Los Angeles throughout the year 2023. The same times are processed into integers.
 
