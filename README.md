@@ -14,7 +14,7 @@ is a notebook-based python file whose function is to call the API to query and o
 
 
 auto_sun_shadowfrequency.ipynb：
-completes the entire automation process. You only need to modify the name of the input file to automatically read the sunrise and sunset files.
+completes the entire automation process. You only need to modify the name of the input file to automatically read the sunrise and sunset files. successfully running on the USC SSI PC 007
 
 Session 1, sunrise and sunset times
 This section discusses all things related to sunrise and sunset times.
