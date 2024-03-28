@@ -32,3 +32,19 @@ This section discusses how to go from shapefiles to built 3D models, discussing 
 
 Session 3, Shadow area calculation, usage analysis of Sun Shadow frequency tool, and process automation.
 This part mainly discusses the methodology, parameter settings, and potential problems of sun shadow frequency.
+
+checkpoint:
+
+freeway No! We need to find the height information!
+
+tree Yes! merge all the tree together! value need to check
+
+building Yes! we have all the information
+
+sun rise and sun set time Yes! running
+
+sun shadowfrequency code Yes! running
+
+
+
+
