@@ -16,7 +16,7 @@ is a notebook-based python file whose function is to call the API to query and o
 auto_sun_shadowfrequency.ipynb：
 completes the entire automation process. You only need to modify the name of the input file to automatically read the sunrise and sunset files. successfully running on the USC SSI PC 007
 the code successfully running on the different computer, you can try to run the code named z46 or auto_sun_shadowfrequency, sometimes some pc need to take care SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape (<string>, line 33)
-This code could successfully running for 1 day result in small test zoon(begin: 2:51pm 03212024 endtime: 7:22pm 03212024) when you want to calulate 1 year
+This code could successfully running for 1 day result in small test zoon(begin: 2:51pm 03212024 endtime: 7:22pm 03212024) when you want to calulate 1 year, the code still need to revise for one year
 
 Session 1, sunrise and sunset times
 This section discusses all things related to sunrise and sunset times.
