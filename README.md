@@ -43,6 +43,12 @@ This section discusses how to go from shapefiles to built 3D models, discussing 
 Session 3, Shadow area calculation, usage analysis of Sun Shadow frequency tool, and process automation.
 This part mainly discusses the methodology, parameter settings, and potential problems of sun shadow frequency.
 
+Extract the freeway height from a lidar dataset in ArcGIS Pro
+https://support.esri.com/en-us/knowledge-base/how-to-extract-the-tree-canopy-height-from-a-lidar-data-000030802
+
+Create elevation points from a DEM in ArcGIS Pro
+https://support.esri.com/en-us/knowledge-base/how-to-create-elevation-points-from-a-dem-in-arcgis-pro-000031174
+
 
 
 checkpoint:
