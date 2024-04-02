@@ -55,7 +55,7 @@ checkpoint:
 
 freeway No! We need to find the height information! What we want is that different segments have different heights.
 
-buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal 
+buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal   Planetary computer Microsoft dem dsm
 
 tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar
 
