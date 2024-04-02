@@ -1,0 +1,19 @@
+Input LAS Dataset: This is the input LAS file to be converted to a raster. LAS is a standard format used to store 3D point cloud data for Light Detection and Ranging (LIDAR).
+
+Output Raster: This is the name of the output raster dataset for the transformation result. Raster data is a geographical data format composed of raster cells. Each cell contains a value that represents some information about that location in space.
+
+Value Field: Specify which value field to extract from the LAS point cloud data to create the raster. In this example "Elevation" is selected, meaning that the raster dataset will represent elevation information.
+
+Interpolation Type: The interpolation method that determines how raster cell values are calculated from point data. The choice here is "Binning", which usually distributes point data to the nearest raster cell.
+
+Cell Assignment: When multiple points fall within the same grid cell, the method used to determine the value of the cell. "Minimum" is selected here, which means that when multiple points fall on the same cell, the minimum value of these points will be selected.
+
+Void Fill Method: When there are raster cells without point data, a method to fill these empty cells. The choice was "Linear", which is an interpolation method that uses a linear algorithm to estimate the value of empty cells.
+
+Output Data Type: Numeric type of output raster data. Selecting "Floating Point" means that the value of each raster cell will be a floating point number (can contain decimals).
+
+Sampling Type: Determines how data is sampled from the point cloud to create the raster. There are several options here, such as based on points or cell size.
+
+Sampling Value: Corresponding to the Sampling Type parameter, this value specifies the specific parameters of sampling. For example, if the Sampling Type is Cell Size, this value will specify the size of each raster cell (in the coordinate system of the input data).
+
+Z Factor: Scaling factor used for elevation values. This can be used to convert elevation values from one unit to another (for example, from meters to feet).
