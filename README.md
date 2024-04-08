@@ -66,6 +66,8 @@ sun rise and sun set time Yes! running
 
 sun shadowfrequency code Yes! running
 
+grounding face: 1 meter and 10 meter DEM
+
 
 
 
