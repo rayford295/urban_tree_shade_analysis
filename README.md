@@ -46,8 +46,7 @@ This part mainly discusses the methodology, parameter settings, and potential pr
 Extract the freeway height from a lidar dataset in ArcGIS Pro
 https://support.esri.com/en-us/knowledge-base/how-to-extract-the-tree-canopy-height-from-a-lidar-data-000030802
 
-Create elevation points from a DEM in ArcGIS Pro
-https://support.esri.com/en-us/knowledge-base/how-to-create-elevation-points-from-a-dem-in-arcgis-pro-000031174
+problem here: Lidar data convert to DEM and DSM, unit problem(need to check out)
 
 
 
@@ -59,7 +58,7 @@ buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal   Planetar
 https://planetarycomputer.microsoft.com/dataset/3dep-lidar-dsm
 https://planetarycomputer.microsoft.com/account/request
 
-tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar
+tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar; beau advise 25 * 20 
 
 building Yes! we have all the information
 
