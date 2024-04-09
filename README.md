@@ -58,7 +58,10 @@ problem here: Lidar data convert to DEM and DSM, unit problem(need to check out)
 Lidar data download from USGS
 https://www.sciencebase.gov/catalog/item/5b5461bae4b05cbf87c1cbce
 
-
+sampling value:
+The value used in conjunction with the Sampling Type parameter to define the resolution of the output raster.
+Z factor:
+The factor by which z-values will be multiplied. This is typically used to convert z linear units to match x,y linear units. The default is 1, which leaves elevation values unchanged. This parameter is not available if the spatial reference of the input surface has a z datum with a specified linear unit.
 
 checkpoint:
 
