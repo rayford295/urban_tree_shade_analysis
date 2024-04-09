@@ -55,6 +55,9 @@ https://support.esri.com/en-us/knowledge-base/how-to-extract-the-tree-canopy-hei
 
 problem here: Lidar data convert to DEM and DSM, unit problem(need to check out)
 
+Lidar data download from USGS
+https://www.sciencebase.gov/catalog/item/5b5461bae4b05cbf87c1cbce
+
 
 
 checkpoint:
