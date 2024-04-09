@@ -66,6 +66,10 @@ https://planetarycomputer.microsoft.com/dataset/3dep-lidar-dsm
 https://planetarycomputer.microsoft.com/account/request
 Planetary computer Microsoft.docx could give you all detial
 
+USGS 3DEP Lidar Digital Surface Model
+Sorry, no items matched your filter. Try adjusting the query parameters or expand the map area.
+
+
 
 tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar; beau advise 25 * 20 
 
