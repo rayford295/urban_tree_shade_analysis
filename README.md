@@ -64,6 +64,8 @@ Z factor:
 The factor by which z-values will be multiplied. This is typically used to convert z linear units to match x,y linear units. The default is 1, which leaves elevation values unchanged. This parameter is not available if the spatial reference of the input surface has a z datum with a specified linear unit.
 I set up value 1, 1
 
+LAS Dataset To Raster
+https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/las-dataset-to-raster.htm
 
 
 
