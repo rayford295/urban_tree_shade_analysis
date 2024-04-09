@@ -9,6 +9,13 @@ Design and implement methods to estimate the shadow surface provided by (a) terr
 
 Manuscript submitted to the journal, describing the methods and values of the output, and the spatiotemporal raster stack we will deploy to further our work, for example, highlighting areas that could be better colored and their ownership status, as well as these candidate sites Whether you currently have a permeable or impermeable surface. These metrics will also be incorporated into the Canopy Scorecard of the Bezos Earth Fund’s work over the next year.
 
+Boyle Heights is a working-class, predominantly Mexican American, youthful neighborhood of almost 100,000 residents east of Downtown Los Angeles in the City of Los Angeles, California.
+
+Population: 92,785
+
+Latitude: 34° 02' 2.04" N
+Longitude: -118° 12' 19.26" W
+https://latitude.to/map/us/united-states/cities/boyle-heights
 
 
 la_sunset_and_sunrise_time.ipynb：
