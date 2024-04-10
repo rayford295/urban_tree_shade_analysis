@@ -50,7 +50,7 @@ This section discusses how to go from shapefiles to built 3D models, discussing 
 Session 3, Shadow area calculation, usage analysis of Sun Shadow frequency tool, and process automation.
 This part mainly discusses the methodology, parameter settings, and potential problems of sun shadow frequency.
 
-Extract the freeway height from a lidar dataset in ArcGIS Pro
+Extract the freeway height from a lidar dataset in ArcGIS Pro(DSM-DTM)
 https://support.esri.com/en-us/knowledge-base/how-to-extract-the-tree-canopy-height-from-a-lidar-data-000030802
 
 problem here: Lidar data convert to DEM and DSM, unit problem(need to check out)
@@ -67,20 +67,20 @@ I set up value 1, 1
 LAS Dataset To Raster
 https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/las-dataset-to-raster.htm
 
+2006DSM file name: means F drive has some many DSM, DTM, DEM data, including point, CAD, raster; tells how to get the height information from these value
 
 
 checkpoint:
 
-freeway No! We need to find the height information! What we want is that different segments have different heights.
+freeway No! We need to find the height information! What we want is that different segments have different heights. Width: measurement distance
 
-buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal   Planetary computer Microsoft dem dsm
+buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal   Planetary computer Microsoft dem dsm(no study area)
 https://planetarycomputer.microsoft.com/dataset/3dep-lidar-dsm
 https://planetarycomputer.microsoft.com/account/request
-Planetary computer Microsoft.docx could give you all detial
+Planetary computer Microsoft.docx could give you all detial, but useless for this project
 
 USGS 3DEP Lidar Digital Surface Model
 Sorry, no items matched your filter. Try adjusting the query parameters or expand the map area.
-
 
 
 tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar; beau advise 25 * 20 
