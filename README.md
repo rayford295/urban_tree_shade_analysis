@@ -68,6 +68,7 @@ LAS Dataset To Raster
 https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/las-dataset-to-raster.htm
 
 2006DSM file name: means F drive has some many DSM, DTM, DEM data, including point, CAD, raster; tells how to get the height information from these value
+You can find these data in area 4 and area6
 
 
 checkpoint:
