@@ -73,7 +73,7 @@ You can find these data in area 4 and area6
 
 checkpoint:
 
-freeway No! We need to find the height information! What we want is that different segments have different heights. Width: measurement distance
+freeway use2006 DSM-DTM. What we want is that different segments have different heights. Width: measurement distance
 
 buffer(direction data source(weight))    DEM DSM DTM Lidar unit zonal   Planetary computer Microsoft dem dsm(no study area)
 https://planetarycomputer.microsoft.com/dataset/3dep-lidar-dsm
@@ -82,7 +82,6 @@ Planetary computer Microsoft.docx could give you all detial, but useless for thi
 
 USGS 3DEP Lidar Digital Surface Model
 Sorry, no items matched your filter. Try adjusting the query parameters or expand the map area.
-
 
 tree Yes! merge all the tree together! height 25 us feet， buffer distance 7.5 method planar; beau advise 25 * 20 
 
